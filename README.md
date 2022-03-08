@@ -1,7 +1,7 @@
 # Organizing Your Work for this Course
 
 ## Learning Goals
-
+-Add change to gate hub
 - Configure a directory for storing lessons
 - Understand the relationship between navigating directories in the terminal and
   navigating directories in a graphical user interface like Finder
